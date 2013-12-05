@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 import java.util.Arrays;
-//Create a class which holds the delay function
+//Create a class which holds the delay function based on the user input
 class Delay{
 	public static void waitX(int timeToWait){
 		try {
